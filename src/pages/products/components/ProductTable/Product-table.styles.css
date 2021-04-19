@@ -1,0 +1,10 @@
+.product-table-container {
+    width: 95%;
+    margin: 0 auto;
+    min-height: 300px;
+    border: 2px solid rgb(14, 245, 14);
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    
+}

@@ -1,0 +1,21 @@
+.product-row-container {
+    width: 95%;
+    margin: 0 auto;
+    min-height: 20px;
+    border: 2px solid red;
+    margin-top: 5px;
+    text-align: left;
+
+   
+}
+
+.Product-red { 
+    color: red;
+    width: 95%;
+    margin: 0 auto;
+    min-height: 20px;
+    border: 2px solid red;
+    margin-top: 5px;
+    text-align: left;
+    font-weight: bold;
+}
