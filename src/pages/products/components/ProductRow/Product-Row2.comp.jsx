@@ -5,7 +5,7 @@ const ProductRow2 = () => {
     return (
         
         <div className="product-row-container">
-          Baseball  $9.99 
+        Baseball  &nbsp; &nbsp; &nbsp; $9.99
        
         </div>
     );

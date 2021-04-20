@@ -5,7 +5,7 @@ const ProductElect = () => {
     return (
         
         <div className="product-row-container">
-          iPod Touch  $99.99
+          iPod Touch&nbsp; $99.99
        
         </div>
     );

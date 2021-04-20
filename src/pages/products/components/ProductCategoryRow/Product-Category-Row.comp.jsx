@@ -6,7 +6,7 @@ const ProductCategoryRow = () => {
     return (
         
         <div className="product-category-row-container">
-        <div><th>Sporting Goods</th></div>
+        Sporting Goods
        
         </div>
     );

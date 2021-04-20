@@ -13,8 +13,8 @@ const ProductTable = () => {
     return (
         
         <div className="product-table-container">
-        <th>Name</th> 
-        <th>Price</th>
+        <div className="tittle-table">&nbsp;&nbsp;&nbsp;Name 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price</div>
         <ProductCategoryRow/>
         <ProductRow/>
         <ProductRow2/>

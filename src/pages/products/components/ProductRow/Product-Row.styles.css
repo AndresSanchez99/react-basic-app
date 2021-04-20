@@ -17,5 +17,9 @@
     border: 2px solid red;
     margin-top: 5px;
     text-align: left;
-    font-weight: bold;
+    font-weight: 400;
+}
+
+text {
+    color: black;
 }
